@@ -1,0 +1,23 @@
+table {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    table-layout: fixed;
+    text-align: center;
+    vertical-align: middle;
+    /* width: 300px; */
+    border: 1px solid #000;
+    margin: auto;
+    border-top: 7px solid #9baff1;
+    border-bottom: 7px solid #9baff1;
+}
+
+td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+
+/* td {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+} */
